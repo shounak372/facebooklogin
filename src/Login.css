@@ -1,0 +1,52 @@
+
+
+
+
+
+.widget-box{
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  border-radius: 8px;
+  margin: auto;
+  /* width: 30vw; */
+  width: max-content;
+  padding: 1% 5%;
+  background: #fff;
+}
+
+.box-header-text{
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  color: #1877f2;
+
+}
+/* #forgot-link{
+  margin-top: 5%
+} */
+.input-container, .btn-main{
+  margin-bottom: 10%;
+}
+#outlined-input{
+  min-width: 240px;
+}
+.btn-box{
+  margin: 0 5% !important;
+}
+.btn-link{
+  text-decoration: none !important;
+}
+
+#forgot-link > a{
+  color: gray;
+  font-size: 12px;
+}
+.MuiButton-containedPrimary{
+  background-color: #1877f2 !important;
+}
+/*
+#forgot-desc{
+  font-size: 12px;
+  text-align: left;
+
+} */
