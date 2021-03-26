@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
@@ -32,7 +32,7 @@ import React, { Suspense } from 'react';
 const ForgotPassword = React.lazy(()=>import('./ForgotPassword.js'))
 const Home = React.lazy(()=>import('./Login.js'))
 
-let history = process.env.NODE_ENV === "production" ? browserHistory : hashHistory;
+// let history = process.env.NODE_ENV === "production" ? browserHistory : hashHistory;
 
 function App() {
 
@@ -46,7 +46,7 @@ function App() {
 
 
 
-      <Router basename={process.env.PUBLIC_URL} history={history}>
+      <Router basename={process.env.PUBLIC_URL} >
         <Suspense fallback={<div>Loading...</div>}>
           <Switch>
             <Route exact path="/">
