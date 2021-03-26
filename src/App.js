@@ -6,7 +6,7 @@ import {
   Route
 } from "react-router-dom";
 import React, { Suspense } from 'react';
-import Login from './Login';
+// import Login from './Login';
 // import Forgot from './ForgotPassword';
 
 // function RenderLogo(){
@@ -43,7 +43,7 @@ function App() {
 
 
 
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Suspense fallback={<div>Loading...</div>}>
           <Switch>
             <Route exact path="/">
