@@ -31,6 +31,9 @@ import React, { Suspense } from 'react';
 // }
 const ForgotPassword = React.lazy(()=>import('./ForgotPassword.js'))
 const Home = React.lazy(()=>import('./Login.js'))
+
+let history = process.env.NODE_ENV === "production" ? browserHistory : hashHistory;
+
 function App() {
 
   return (
@@ -43,7 +46,7 @@ function App() {
 
 
 
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router basename={process.env.PUBLIC_URL} history={history}>
         <Suspense fallback={<div>Loading...</div>}>
           <Switch>
             <Route exact path="/">
