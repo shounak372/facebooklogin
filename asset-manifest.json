@@ -1,34 +1,22 @@
 {
   "files": {
-    "static/js/0.65c7cebd.chunk.js": "/facebooklogin/static/js/0.65c7cebd.chunk.js",
-    "static/js/0.65c7cebd.chunk.js.map": "/facebooklogin/static/js/0.65c7cebd.chunk.js.map",
-    "main.css": "/facebooklogin/static/css/main.847c6760.chunk.css",
-    "main.js": "/facebooklogin/static/js/main.5f892c69.chunk.js",
-    "main.js.map": "/facebooklogin/static/js/main.5f892c69.chunk.js.map",
-    "runtime-main.js": "/facebooklogin/static/js/runtime-main.8daca5e6.js",
-    "runtime-main.js.map": "/facebooklogin/static/js/runtime-main.8daca5e6.js.map",
-    "static/js/3.9f706651.chunk.js": "/facebooklogin/static/js/3.9f706651.chunk.js",
-    "static/js/3.9f706651.chunk.js.map": "/facebooklogin/static/js/3.9f706651.chunk.js.map",
-    "static/css/4.9b7a47fd.chunk.css": "/facebooklogin/static/css/4.9b7a47fd.chunk.css",
-    "static/js/4.02c500e9.chunk.js": "/facebooklogin/static/js/4.02c500e9.chunk.js",
-    "static/js/4.02c500e9.chunk.js.map": "/facebooklogin/static/js/4.02c500e9.chunk.js.map",
-    "static/css/5.9b7a47fd.chunk.css": "/facebooklogin/static/css/5.9b7a47fd.chunk.css",
-    "static/js/5.d07ba784.chunk.js": "/facebooklogin/static/js/5.d07ba784.chunk.js",
-    "static/js/5.d07ba784.chunk.js.map": "/facebooklogin/static/js/5.d07ba784.chunk.js.map",
-    "static/js/6.cf7fc1b5.chunk.js": "/facebooklogin/static/js/6.cf7fc1b5.chunk.js",
-    "static/js/6.cf7fc1b5.chunk.js.map": "/facebooklogin/static/js/6.cf7fc1b5.chunk.js.map",
-    "index.html": "/facebooklogin/index.html",
-    "static/css/4.9b7a47fd.chunk.css.map": "/facebooklogin/static/css/4.9b7a47fd.chunk.css.map",
-    "static/css/5.9b7a47fd.chunk.css.map": "/facebooklogin/static/css/5.9b7a47fd.chunk.css.map",
-    "static/css/main.847c6760.chunk.css.map": "/facebooklogin/static/css/main.847c6760.chunk.css.map",
-    "static/js/0.65c7cebd.chunk.js.LICENSE.txt": "/facebooklogin/static/js/0.65c7cebd.chunk.js.LICENSE.txt",
-    "static/js/3.9f706651.chunk.js.LICENSE.txt": "/facebooklogin/static/js/3.9f706651.chunk.js.LICENSE.txt",
-    "static/media/logo.b98074a7.svg": "/facebooklogin/static/media/logo.b98074a7.svg"
+    "main.css": "/quiz-app/static/css/main.c79f562a.chunk.css",
+    "main.js": "/quiz-app/static/js/main.bba9982a.chunk.js",
+    "main.js.map": "/quiz-app/static/js/main.bba9982a.chunk.js.map",
+    "runtime-main.js": "/quiz-app/static/js/runtime-main.cc6704f6.js",
+    "runtime-main.js.map": "/quiz-app/static/js/runtime-main.cc6704f6.js.map",
+    "static/js/2.618a66e8.chunk.js": "/quiz-app/static/js/2.618a66e8.chunk.js",
+    "static/js/2.618a66e8.chunk.js.map": "/quiz-app/static/js/2.618a66e8.chunk.js.map",
+    "static/js/3.3921b53a.chunk.js": "/quiz-app/static/js/3.3921b53a.chunk.js",
+    "static/js/3.3921b53a.chunk.js.map": "/quiz-app/static/js/3.3921b53a.chunk.js.map",
+    "index.html": "/quiz-app/index.html",
+    "static/css/main.c79f562a.chunk.css.map": "/quiz-app/static/css/main.c79f562a.chunk.css.map",
+    "static/js/2.618a66e8.chunk.js.LICENSE.txt": "/quiz-app/static/js/2.618a66e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8daca5e6.js",
-    "static/js/3.9f706651.chunk.js",
-    "static/css/main.847c6760.chunk.css",
-    "static/js/main.5f892c69.chunk.js"
+    "static/js/runtime-main.cc6704f6.js",
+    "static/js/2.618a66e8.chunk.js",
+    "static/css/main.c79f562a.chunk.css",
+    "static/js/main.bba9982a.chunk.js"
   ]
 }
